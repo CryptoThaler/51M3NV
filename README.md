@@ -8,6 +8,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](./LICENSE)
 [![Maintainer](https://img.shields.io/badge/Maintainer-CryptoThaler-blue?style=flat-square)](https://github.com/CryptoThaler)
 
+## 🚀 [▶️ LAUNCH DASHBOARD](https://raw.githubusercontent.com/CryptoThaler/51M3NV/main/SPACE%20WEATHER%204CAST.html)
+
+**Click above to open the Space Weather 4Cast dashboard instantly in your browser.**
+
 ---
 
 ## 🌐 Overview
